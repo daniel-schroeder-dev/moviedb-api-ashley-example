@@ -1,0 +1,73 @@
+[
+    {
+        "adult": false,
+        "gender": 2,
+        "id": 1461,
+        "known_for": [
+            {
+                "adult": false,
+                "backdrop_path": "/a2n6bKD7qhCPCAEALgsAhWOAQcc.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    18
+                ],
+                "id": 49047,
+                "media_type": "movie",
+                "original_language": "en",
+                "original_title": "Gravity",
+                "overview": "Dr. Ryan Stone, a brilliant medical engineer on her first Shuttle mission, with veteran astronaut Matt Kowalsky in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The Shuttle is destroyed, leaving Stone and Kowalsky completely alone-tethered to nothing but each other and spiraling out into the blackness of space. The deafening silence tells them they have lost any link to Earth and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space.",
+                "poster_path": "/wmUeEacsFZzDndaeOtNNmy26rYJ.jpg",
+                "release_date": "2013-10-03",
+                "title": "Gravity",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 13038
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 161,
+                "media_type": "movie",
+                "original_language": "en",
+                "original_title": "Ocean's Eleven",
+                "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+                "poster_path": "/v5D7K4EHuQHFSjveq8LGxdSfrGS.jpg",
+                "release_date": "2001-12-07",
+                "title": "Ocean's Eleven",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 9454
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/udYOmbW1JEZjVd726PWHlmptxPi.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    9648,
+                    878
+                ],
+                "id": 158852,
+                "media_type": "movie",
+                "original_language": "en",
+                "original_title": "Tomorrowland",
+                "overview": "Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as \"Tomorrowland.\"",
+                "poster_path": "/kziYpr5Nfw60P0My8aj1sgCEqed.jpg",
+                "release_date": "2015-05-19",
+                "title": "Tomorrowland",
+                "video": false,
+                "vote_average": 6.2,
+                "vote_count": 6019
+            }
+        ],
+        "known_for_department": "Acting",
+        "name": "George Clooney",
+        "popularity": 14.632,
+        "profile_path": "/kHiVY6r1k6juXrNetAYk2jILqn9.jpg"
+    }
+]
